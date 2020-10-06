@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working to get my site set up and and this profile as well. This is a work in progress. 
+
 <!--
 **SahajKohli/sahajkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
